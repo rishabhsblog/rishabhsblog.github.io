@@ -3,6 +3,9 @@ layout: post
 title: Raspberry Pi on a RC Car
 ---
 
+![Picture of My Car]({{ site.baseurl }}/images/rc_car.jpg "My Augmented RC Car")
+
+
 Instead of building an entire mobile robot from scratch, I chose to modify a current off the shelf RC car. My goal for this project 
 was gaining a better understanding of the ROS software libraries commonly used in robots.
 
