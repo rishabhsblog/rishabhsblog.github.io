@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a rising junior studying Electrical and Computer Engineering at Carnegie Mellon. Outside of school, I am involved in CMU's undergraduate underwater robotics team, TartanAUV, where we compete 
+in the annual international RoboSub competition. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rishj099@gmail.com](mailto:rishj099@gmail.com)
